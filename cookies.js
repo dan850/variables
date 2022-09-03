@@ -62,17 +62,15 @@ function myFunction2() {
 		cupsOfPb : 0.5
 	  };
 
-    sixRecipe.eggs= sixRecipe.eggs/2;
+    
 
     console.log(sixRecipe.eggs);
    
    
-    sixRecipe.cupsOfSugar= sixRecipe.cupsOfSugar/2;
    
     console.log(sixRecipe.cupsOfSugar);
    
    
-    sixRecipe.cupsOfPb= sixRecipe.cupsOfPb/2;
    
     console.log(sixRecipe.cupsOfPb);
   
