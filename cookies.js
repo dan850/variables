@@ -72,15 +72,22 @@ function myFunction2() {
 
 
 
-      console.log(threeRecipe.eggs);
-   
-   
-   
-      console.log(threeRecipe.cupsOfSugar);
+      console.log("  ");
+
+      console.log(threeRecipe.eggs +  " Egg");
+      console.log("  ");
      
      
      
-      console.log(threeRecipe.cupsOfPb);
+      console.log(threeRecipe.cupsOfSugar + " Cup of Sugar");
+     
+      console.log("  ");
+    
+     
+      console.log(threeRecipe.cupsOfPb + " Cup of Peanut Butter");
+    
+      console.log("  ");
+    
     
 
 
