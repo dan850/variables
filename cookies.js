@@ -21,18 +21,19 @@ const sixRecipe = {
 
   console.log("READY TO MAKE " + sixCookies + " PEANUT BUTTER COOKIES IN 3 STEPS?" + "WITH JUST " + (sixRecipe.eggs + sixRecipe.cupsOfSugar + sixRecipe.cupsOfPb)+ " INGREDIENTS!");
 
+  console.log("  ");
 
-  console.log(sixRecipe.eggs);
+  console.log(sixRecipe.eggs +  " Egg");
   console.log("  ");
  
  
  
-  console.log(sixRecipe.cupsOfSugar);
+  console.log(sixRecipe.cupsOfSugar + " Cup of Sugar");
  
   console.log("  ");
 
  
-  console.log(sixRecipe.cupsOfPb);
+  console.log(sixRecipe.cupsOfPb + " Cup of Peanut Butter");
 
   console.log("  ");
 
