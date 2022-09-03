@@ -19,7 +19,7 @@ const sixRecipe = {
 
   document.getElementById("cookie6").innerHTML = "im Hungry! SEE CONSOLE FOR RECIPE" ;
 
-  console.log("READY TO MAKE " + sixCookies + " PEANUT BUTTER COOKIES IN 3 STEPS?" + "WITH JUST " + (sixRecipe.eggs + sixRecipe.cupsOfSugar + sixRecipe.cupsOfPb)+ " INGREDIENTS!");
+  console.log("READY TO MAKE " + sixCookies + " PEANUT BUTTER COOKIES IN 3 STEPS WITH JUST " + (sixRecipe.eggs + sixRecipe.cupsOfSugar + sixRecipe.cupsOfPb)+ " INGREDIENTS?");
 
   console.log("  ");
 
