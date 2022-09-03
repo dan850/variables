@@ -17,7 +17,7 @@ const sixRecipe = {
 	cupsOfPb : 1
   };
 
-  document.getElementById("demo2").innerHTML = "i'm Hungry! SEE CONSOLE FOR RECIPE" ;
+  document.getElementById("cookie6").innerHTML = "im Hungry! SEE CONSOLE FOR RECIPE" ;
 
   console.log("READY TO MAKE " + sixCookies + " PEANUT BUTTER COOKIES IN 3 STEPS?" + "WITH JUST " + (sixRecipe.eggs + sixRecipe.cupsOfSugar + sixRecipe.cupsOfPb)+ " INGREDIENTS!");
 
@@ -63,10 +63,11 @@ function myFunction2() {
 	  };
 
     
+    console.log("  ");
 
     
 
-      console.log("DO YOU ONLY WANT " + (sixCookies/2) + cookieString + " DIVIDE THE INGREDIENTS BY 2");
+      console.log("DO YOU ONLY WANT " + (sixCookies/2) + " " + cookieString + "? THEN, DIVIDE THE INGREDIENTS BY 2");
 	 
 
 
